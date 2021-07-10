@@ -9,6 +9,6 @@ Why Ensemble Selection?
 - Suitable for neural networks 
 
 TO DO:
-- update algorithm
-- refactor
+- improve implemented selection algorithm
 - include modified examples (current one sensitive)
+- include performance plot
